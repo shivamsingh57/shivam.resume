@@ -1,0 +1,64 @@
+
+body {
+    margin: 0px;
+    font-family: "Josefin Sans", sans-serif;
+    background-color: lightblue;
+  }
+  
+  main {
+    background-color: lightgrey;
+    height: 100vh;
+    display: flex;
+  }
+  /* CSS For my resume */
+
+  h1 {
+    color: #18121c;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 22px
+  }
+
+  
+  
+table, th, td {
+    border: 1px dashed rgb(43, 41, 41);
+    padding: 10px;
+    font-size: 17px;
+  }     
+
+
+}
+  p {
+    color: #000000;
+    font-size: 15px;
+    margin-top: 16px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif
+
+  }
+  
+
+  img {
+    border-radius: 50%;
+    height: 250px;
+  }
+  
+  .intro {
+    background-color: rgb(245, 240, 240);
+    width: 38rem;
+    padding: 40px 16px 8px 16px;
+    text-align: center;
+  }
+
+  .sec-2 {
+    width: 100%;
+    margin: 60px 15px 8px 40px;
+  }
+
+  
+  footer{
+      max-width: 10px;
+      color:black;
+
+  }
